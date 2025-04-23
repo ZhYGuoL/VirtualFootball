@@ -1,0 +1,7 @@
+venv/
+dataset/
+runs/
+__pycache__/
+.cursorignore
+output.mov
+.DS_Store

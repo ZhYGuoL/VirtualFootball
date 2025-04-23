@@ -1,0 +1,13 @@
+train: /Users/zhiyuanguo/Desktop/Coding/virtualFootball/dataset/train/images
+val: /Users/zhiyuanguo/Desktop/Coding/virtualFootball/dataset/valid/images
+test: /Users/zhiyuanguo/Desktop/Coding/virtualFootball/dataset/test/images
+
+nc: 1
+names: ['ball']
+
+roboflow:
+  workspace: z
+  project: soccer-ball-oa830
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/queendev9516-gmail-com/soccer-ball-oa830/dataset/1  
